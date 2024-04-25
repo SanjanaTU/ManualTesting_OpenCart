@@ -53,7 +53,7 @@ OpenCart is an open-source eCommerce platform designed for small to medium-sized
 - For security reasons, delete the install directory from your OpenCart installation directory.
 
 ## 8. Access Admin Panel
-- Navigate to `http://yourdomain.com/admin` in your web browser.
+- Navigate to `(https://demo.opencart.com/admin/)` in your web browser.
 - Log in with the credentials you provided during installation.
 
 ## 9. Customize and Add Products
