@@ -63,9 +63,6 @@ OpenCart is an open-source eCommerce platform designed for small to medium-sized
 - Keep your OpenCart installation up to date with the latest security patches.
 - Follow best practices for securing your web server.
   
-# License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You can copy and paste this code into a Markdown file and modify the text as needed.
 
 # Templates
 
@@ -92,6 +89,10 @@ This directory represents a specific project within your repository.
 
 ## Test Reports
 - Test reports generated for Project.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. You can copy and paste this code into a Markdown file and modify the text as needed.
 
 # Author
 
